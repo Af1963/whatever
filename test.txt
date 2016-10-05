@@ -4,5 +4,9 @@ Ciao Mondo
 
 Bonjour le monde
 
+<<<<<<< HEAD
 
 Hauptänderung
+=======
+Zusätzliche Zeile
+>>>>>>> xyz
